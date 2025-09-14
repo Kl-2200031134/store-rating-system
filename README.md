@@ -26,7 +26,6 @@ This is a full-stack web application where:
 
 ## How to Run
 # Backend
-```
 cd store-rating-backend
 npm install
 npm run dev
